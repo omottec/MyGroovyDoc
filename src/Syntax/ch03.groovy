@@ -1,7 +1,8 @@
-package Syntax.ch03
+package Syntax
 
 /**
  * Created by qinbingbing on 11/7/16.
+ * Identifiers
  */
 
 def name

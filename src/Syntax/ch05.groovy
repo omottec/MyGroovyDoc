@@ -1,7 +1,8 @@
-package Syntax.ch05
+package Syntax
 
 /**
  * Created by qinbingbing on 11/8/16.
+ * Numbers
  */
 
 // 5.1 Integral literals

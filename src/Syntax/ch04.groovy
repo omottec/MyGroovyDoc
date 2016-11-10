@@ -1,7 +1,8 @@
-package Syntax.ch04
+package Syntax
 
 /**
  * Created by qinbingbing on 11/7/16.
+ * Strings
  */
 
 // Single quoted string
