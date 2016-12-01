@@ -1,5 +1,3 @@
-package Closures
-
 /**
  * Created by qinbingbing on 11/9/16.
  * Defining a closure
