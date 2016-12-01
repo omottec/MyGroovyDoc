@@ -6,7 +6,7 @@ package Closures
  */
 
 def greeting = { "Hello, $it!" }
-assert greeting('Patrick') == 'Hello, Patrick!'
+assert greeting('Bond') == 'Hello, Bond!'
 
 def magicNumber = { -> 42 }
 // this call will fail because the closure doesn't accept any argument
